@@ -1,0 +1,17 @@
+C:\projetos\desktop\WinFormsEntityFramework\WinFormsEntityFramework\bin\Debug\net6.0-windows\WinFormsEntityFramework.exe
+C:\projetos\desktop\WinFormsEntityFramework\WinFormsEntityFramework\bin\Debug\net6.0-windows\WinFormsEntityFramework.deps.json
+C:\projetos\desktop\WinFormsEntityFramework\WinFormsEntityFramework\bin\Debug\net6.0-windows\WinFormsEntityFramework.runtimeconfig.json
+C:\projetos\desktop\WinFormsEntityFramework\WinFormsEntityFramework\bin\Debug\net6.0-windows\WinFormsEntityFramework.dll
+C:\projetos\desktop\WinFormsEntityFramework\WinFormsEntityFramework\bin\Debug\net6.0-windows\WinFormsEntityFramework.pdb
+C:\projetos\desktop\WinFormsEntityFramework\WinFormsEntityFramework\obj\Debug\net6.0-windows\WinFormsEntityFramework.csproj.AssemblyReference.cache
+C:\projetos\desktop\WinFormsEntityFramework\WinFormsEntityFramework\obj\Debug\net6.0-windows\WinFormsEntityFramework.csproj.GenerateResource.cache
+C:\projetos\desktop\WinFormsEntityFramework\WinFormsEntityFramework\obj\Debug\net6.0-windows\WinFormsEntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\desktop\WinFormsEntityFramework\WinFormsEntityFramework\obj\Debug\net6.0-windows\WinFormsEntityFramework.AssemblyInfoInputs.cache
+C:\projetos\desktop\WinFormsEntityFramework\WinFormsEntityFramework\obj\Debug\net6.0-windows\WinFormsEntityFramework.AssemblyInfo.cs
+C:\projetos\desktop\WinFormsEntityFramework\WinFormsEntityFramework\obj\Debug\net6.0-windows\WinFormsEntityFramework.csproj.CoreCompileInputs.cache
+C:\projetos\desktop\WinFormsEntityFramework\WinFormsEntityFramework\obj\Debug\net6.0-windows\WinFormsEntityFramework.dll
+C:\projetos\desktop\WinFormsEntityFramework\WinFormsEntityFramework\obj\Debug\net6.0-windows\refint\WinFormsEntityFramework.dll
+C:\projetos\desktop\WinFormsEntityFramework\WinFormsEntityFramework\obj\Debug\net6.0-windows\WinFormsEntityFramework.pdb
+C:\projetos\desktop\WinFormsEntityFramework\WinFormsEntityFramework\obj\Debug\net6.0-windows\WinFormsEntityFramework.genruntimeconfig.cache
+C:\projetos\desktop\WinFormsEntityFramework\WinFormsEntityFramework\obj\Debug\net6.0-windows\ref\WinFormsEntityFramework.dll
+C:\projetos\desktop\WinFormsEntityFramework\WinFormsEntityFramework\obj\Debug\net6.0-windows\WinFormsEntityFramework.frmPrincipal.resources

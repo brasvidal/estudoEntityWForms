@@ -1,0 +1,17 @@
+C:\projetos\desktop\WinFormsEntityFramework\Controllers\bin\Debug\net6.0\Controllers.deps.json
+C:\projetos\desktop\WinFormsEntityFramework\Controllers\bin\Debug\net6.0\Controllers.dll
+C:\projetos\desktop\WinFormsEntityFramework\Controllers\bin\Debug\net6.0\Controllers.pdb
+C:\projetos\desktop\WinFormsEntityFramework\Controllers\obj\Debug\net6.0\Controllers.csproj.AssemblyReference.cache
+C:\projetos\desktop\WinFormsEntityFramework\Controllers\obj\Debug\net6.0\Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\desktop\WinFormsEntityFramework\Controllers\obj\Debug\net6.0\Controllers.AssemblyInfoInputs.cache
+C:\projetos\desktop\WinFormsEntityFramework\Controllers\obj\Debug\net6.0\Controllers.AssemblyInfo.cs
+C:\projetos\desktop\WinFormsEntityFramework\Controllers\obj\Debug\net6.0\Controllers.csproj.CoreCompileInputs.cache
+C:\projetos\desktop\WinFormsEntityFramework\Controllers\obj\Debug\net6.0\Controllers.dll
+C:\projetos\desktop\WinFormsEntityFramework\Controllers\obj\Debug\net6.0\refint\Controllers.dll
+C:\projetos\desktop\WinFormsEntityFramework\Controllers\obj\Debug\net6.0\Controllers.pdb
+C:\projetos\desktop\WinFormsEntityFramework\Controllers\obj\Debug\net6.0\ref\Controllers.dll
+C:\projetos\desktop\WinFormsEntityFramework\Controllers\bin\Debug\net6.0\Controllers.runtimeconfig.json
+C:\projetos\desktop\WinFormsEntityFramework\Controllers\bin\Debug\net6.0\Models.dll
+C:\projetos\desktop\WinFormsEntityFramework\Controllers\bin\Debug\net6.0\Models.pdb
+C:\projetos\desktop\WinFormsEntityFramework\Controllers\obj\Debug\net6.0\Controllers.csproj.CopyComplete
+C:\projetos\desktop\WinFormsEntityFramework\Controllers\obj\Debug\net6.0\Controllers.genruntimeconfig.cache
